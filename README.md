@@ -16,8 +16,6 @@
    ```bash
    npm install
 
-   npm run dev
-
 3. Inicializar proyecto:
    ```bash
    npm run dev
